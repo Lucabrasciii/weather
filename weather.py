@@ -1,1 +1,1 @@
-print("rain")
+print("cloudy")
